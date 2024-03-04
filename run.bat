@@ -1,0 +1,1 @@
+start %windir%\system32\cmd.exe /k "python SendDM_test.py"
